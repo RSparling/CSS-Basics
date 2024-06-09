@@ -5,3 +5,5 @@ Experiment with the different properties that affect text display, as well as va
 The Webpages is located at "./pages/cc0.html".
 
 The CSS Style Sheet is located at "./stylesheet.css"
+
+The syntax checks of both the HTML and CSS can be found in "./SyntaxChecks/"
